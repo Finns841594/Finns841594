@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Finns841594
 - 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently learning Deep Learning on coursera
-- 💞️ I’m looking to collaborate on deploy some DNNs as practices for learning
+- 💞️ I’m looking to collaborate on deploying some DNNs as practices for learning
 - 📫 How to reach me ...
 
 <!---
