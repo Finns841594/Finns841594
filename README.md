@@ -3,8 +3,7 @@
 - Passions in coding, gaming, and art. 
 
 #### My Blog
-- I have a blog which I leave my notes about the problems I met about programming, which also help me to record my progress in this path, take a look if you like:
-- [https://finns841594.github.io](https://finns841594.github.io)
+- I have a blog which I leave my notes about the problems I met about programming, which also help me to record my progress in this path, take a look if you like: [https://finns841594.github.io](https://finns841594.github.io)
 
 #### Languages and tools
 <div align="center">
