@@ -6,7 +6,9 @@
 - Take a look at my portfolio here: [https://feng-portfolio.vercel.app/](https://feng-portfolio.vercel.app/)
 
 #### My Blog
-- I have a blog which I leave my notes about the problems I met about programming, which also help me to record my progress in this path, take a look if you like: [https://finns841594.github.io](https://finns841594.github.io)
+- I have a blog which I leave my notes about the problems I met about programming, which also help me to record my progress in this path, take a look if you like:
+- [https://finns841594.github.io](https://finns841594.github.io)
+- [https://feng-y.notion.site/](https://feng-y.notion.site/)
 
 #### Languages and tools
 <div align="center">
