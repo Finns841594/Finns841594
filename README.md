@@ -7,8 +7,8 @@
 
 #### My Blog
 - I have a blog which I leave my notes about the problems I met about programming, which also help me to record my progress in this path, take a look if you like:
-- [https://finns841594.github.io](https://finns841594.github.io)
 - [https://feng-y.notion.site/](https://feng-y.notion.site/)
+- [https://finns841594.github.io](https://finns841594.github.io) (old)
 
 #### Languages and tools
 <div align="center">
